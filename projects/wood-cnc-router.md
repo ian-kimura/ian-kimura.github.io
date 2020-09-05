@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/eventsHawaii.jpg
+image: images/wood-cnc-router
 title: Events Hawaii
 permalink: projects/wood-cnc-router
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
-  - Event Website
-  - Summer Camp
-  - HTML
-  - Javascript
+  - CNC Router
+  - 3D Design
 Summary: Design and create 3D wood routing files to be cut for art purposes.
 ---
 

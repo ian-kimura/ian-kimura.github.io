@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Wood Routing
-permalink: projects/micromouse
+image: images/kauaiCoaster_thumbnail.png
+title: Wood CNC Routing
+permalink: projects/wood-cnc-reouting
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-09-04`
 labels:
   - Wood Working
   - CNC Routing

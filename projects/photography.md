@@ -18,10 +18,10 @@ For a while I have enjoyed photgraphy, specifally portraits, and recently I have
 
 <div class="row">
   <div class="column">
-    <img src="../images/photoBefor.jpg" alt="Snow" style="width:50%">
+    <img src="../images/photoBefor.jpg" style="width:50%">
   </div>
   <div class="column">
-    <img src="../images/photoAfter.jpg" alt="Forest" style="width:50">
+    <img src="../images/photoAfter.jpg" style="width:50">
   </div>
 </div>
 

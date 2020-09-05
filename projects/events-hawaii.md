@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/eventsHawaiiPromo.png
+image: images/eventsHawaiiPromo.jpg
 title: Events Hawaii
 permalink: projects/events-hawaii
 # All dates must be YYYY-MM-DD format!

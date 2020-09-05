@@ -18,8 +18,3 @@ My design process is to first gather information as to what she wants, such as w
 
 So far I have designed a few pieces for my sister along with4 a few of some Hawaiian islands to be eventually used as coasters. 
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/layerWave.png">
-  <img class="ui image" src="../images/kauaiCoaster.png">
-  <img class="ui image" src="../images/kauaiCoaster_toolpaths.png">
-</div>

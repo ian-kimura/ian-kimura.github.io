@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/wood-cnc-router
-title: Events Hawaii
+image: images/kauaiCoaster_thumbnail.PNG
+title: Wood CNC Routing
 permalink: projects/wood-cnc-router
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04

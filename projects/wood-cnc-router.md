@@ -20,4 +20,4 @@ So far I have designed a few pieces for my sister along with a few of some Hawai
 
 <img class="ui center floated rounded image" src="../images/kauaiCoaster.PNG">
 <img class="ui center floated rounded image" src="../images/kauaiCoaster_toolpaths.PNG">
-<img class="ui center floated rounded image" src="../images/layeredWaves.PNG">
+<img class="ui center floated rounded image" src="../images/layeredWave.PNG">

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/kauaiCoaster_thumbnail.png
 title: Wood CNC Routing
-permalink: projects/wood-cnc-reouting
+permalink: projects/wood-cnc-routing
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04`
 labels:

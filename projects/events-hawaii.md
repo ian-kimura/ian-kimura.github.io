@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/eventsHawaiiPromo.png
 title: Vacay
 permalink: projects/events-hawaii
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-09-04
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - HTML
+  - Social Media
+  - Website Design
+summary: Design and create a mock platform for sharing local news.
 ---
 
 During the summer of 2018, along with three other collaborators from various Hawaiian islands, we created a website which allows people from around the different island 
@@ -26,5 +26,5 @@ able to create a mock website using HTML and Javascript, we were not able to imp
 on implementing that and a data system to store and easily access information. 
 
 
-<img class="ui medium right floated rounded image" src="../images/eventsHawaiiPromo.jpg">
+<img class="ui large middle floated rounded image" src="../images/eventsHawaiiPromo.jpg">
 

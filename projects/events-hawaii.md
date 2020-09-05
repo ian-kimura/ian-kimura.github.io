@@ -11,7 +11,7 @@ labels:
   - Summer Camp
   - HTML
   - Javascript
-Summary: Created and designed a website  showcasing news and events around Hawai’i during a summer camp with three other collaborators. 
+Summary: Designed a website showcasing local events and news.
 ---
 	During the summer of 2018, along with three other collaborators from various Hawaiian islands, we created a website which allows people from around the different island communities to post and share what’s going on around them. Our main inspiration was the lack of inter island news that was coming from local communities, the only real and quick source of local new stations, but we wanted something which was run and used by the public. 
 Our website would offer anyone to sign up and be able to share what is currently going on around them.  We would also be continuously adding and updating public information towards events and gatherings and other main news. Our goal was to create something similar to a social media and Reddit, but more accessible and locally centralized. 

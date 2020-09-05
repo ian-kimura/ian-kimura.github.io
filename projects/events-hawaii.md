@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/eventsHawaii.jpg
-title: Events Hawaii
+image: images/vacay-square.png
+title: Vacay
 permalink: projects/events-hawaii
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-04
+date: 2015-12-15
 labels:
-  - Event Website
-  - Summer Camp
-  - HTML
   - Javascript
-Summary: Designed a website showcasing local events and news.
+  - Meteor
+  - MongoDB
+  - GitHub
+summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
 During the summer of 2018, along with three other collaborators from various Hawaiian islands, we created a website which allows people from around the different island 

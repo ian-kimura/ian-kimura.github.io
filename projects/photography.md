@@ -17,7 +17,7 @@ For a while I have enjoyed photgraphy, specifally portraits, and recently I have
 
 
 <div class="row">
-  <div class="column">
+  <div class="row">
     <img src="../images/photoBefore.jpg" style="width:35%">
   </div>
   <div class="column">

@@ -9,7 +9,7 @@ date: 2020-09-04
 labels:
   - CNC Router
   - 3D Design
-Summary: Design and create 3D wood routing files to be cut for art purposes.
+summary: Design and create 3D wood routing files to be cut for art purposes.
 ---
 
 Recentlying this summer of 2020, my family got a wood router to be able to create and design pieces of wood for art purposes.  A router is similar to a 3D printer in that it takes in a file which tells the head where to move, and for a router, it slowly cuts aways from the set block of wood.  My sister has been creating a small Etsy shop selling art pieces of her resin works,  which consist of different types of colored resin designs on various shapes of wood. So my project this summer was to create and design interesting shapes and design in wood for her to resin.

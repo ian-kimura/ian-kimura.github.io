@@ -26,5 +26,5 @@ able to create a mock website using HTML and Javascript, we were not able to imp
 on implementing that and a data system to store and easily access information. 
 
 
-<img class="ui fit middle floated rounded image" src="../images/eventsHawaiiPromo.jpg">
+<img class="ui center floated rounded image" src="../images/eventsHawaiiPromo.jpg">
 

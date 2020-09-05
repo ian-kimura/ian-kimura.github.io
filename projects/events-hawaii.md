@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/eventsHawaiiPromo.png
-title: Vacay
+title: Events Hawaii
 permalink: projects/events-hawaii
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04

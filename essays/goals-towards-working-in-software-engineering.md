@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Future Goals Towards Working in Software Engineering
+title: Software Engineering and Its Plentyful Applications
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
   - Video Game Design 
   - Web Development 
 ---
-  ## Software Engineering and Its Plentyful Applications
   <img class="ui medium left floated rounded image" src="../images/videogamedev.png">
   As I start my journey into learning more about software engineering, I have a few expectations and goals that I want to learn.  But, to start I want to iterate why I want to learn more about software engineering and work in this field. For starters, learning software engineering allows you to be able to create things to a greater ability than before. Previously in school we have been promoted to create small assignments and projects using Java, such as creating a skeleton database for an airport system which manages passengers, flights, and availability for seating. This is great and all, but we could take this one step further. Using concepts and ideas from software engineering, we are going to be able to create more than a console interface. We are going to be able to build programs and systems more efficiently and to a higher level which would be actually usable. So learning this is going to bring in a whole new level of creativity and new possibilities. 
 

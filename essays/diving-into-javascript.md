@@ -22,6 +22,7 @@ have learned and seen so far, this language seems like a very efficient and adap
 is very easy to create generic functions and store data. There seems to be a lot of customization and accessibility to be able to create 
 projects easier and faster than in Java. 
 
+<img class="ui medium right floated rounded image" src="../images/timecomic.jpg">
 Currently in my ICS 314 class we have been and will be doing WODs which are going to help us practice and expand our horizons in Javascript. 
 WODs are short coding assignments which last around 15 minutes. I personally have been enjoying them and learning from them because they are 
 like little coding games where we see how fast and well we can complete a given task. Since they are graded in our class, they give a sense of 

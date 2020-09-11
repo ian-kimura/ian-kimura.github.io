@@ -9,7 +9,7 @@ labels:
   - Smart Questions
 ---
 
-#Dumb Questions Creater Dumber Answers
+# What Makes a Smart Question?
 
 One important thing I have learned since studying computer science is the importance of being able to effectively search and find your own resources and answers for yourself. The ideas in computer programming can sometimes be very abstract and depend on a solid background of understanding to be able to build on.  But once you fall behind a little, it can be hard to pick yourself up to go on learning new things. Googling and finding various online resources can be the best way to help strengthen your understanding of different or new concepts. For me, it has been an effective way of answering questions or finding application of new concepts when what I learned in class was not clear enough for me. But, more important than knowing where to look, is knowing what to ask. 
 

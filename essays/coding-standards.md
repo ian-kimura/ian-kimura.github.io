@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards, an unwritten written rule 
+title: Coding Standards, an Unwritten Written Rule 
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-24
 labels:

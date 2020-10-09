@@ -23,6 +23,9 @@ At first when we started using this new program I did not see that point because
 <img class="ui medium right floated rounded image" src="../images/colourpop_recreation.PNG"> 
 
 <br />
+<br />
+<br />
+<br />
 
 The first image is one of my first assignments using only HTML, while the second is a my personal recreation of a website. From this you can see that one is much better looking that then other, but my recreation was also easier to format and quicker to make. 
 

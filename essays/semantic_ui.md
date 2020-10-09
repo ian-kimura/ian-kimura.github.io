@@ -21,6 +21,6 @@ The first image is one of my first assignments using only HTML, while the second
 
 <img class="ui medium left floated rounded image" src="../images/rawHTML.PNG"> 
 
-<img class="ui medium left floated rounded image" src="../images/colourpop.recreation.PNG"> 
+<img class="ui medium left floated rounded image" src="../images/colourpop_recreation.PNG"> 
 
 Overall, I believe that coding standards are an important part of coding. For me personally, they have helped me learn and apply new things when working with new languages. They also help in group situations and universally so everyone can easily read and understand others codes. Even though they may be tedious and not seem necessary when working on personal projects, in the long run it is an important skill to keep. 

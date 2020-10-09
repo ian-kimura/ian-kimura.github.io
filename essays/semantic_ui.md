@@ -18,9 +18,9 @@ As of now, I am learning Javascript and Underscore and using ESLint with Intelli
 At first when we started using this new program I did not see that point because we were previously using JSFiddle which already is a developmental environment for Javascript and is much easier to use. From using IntelliJ a few times, I can see that it has much more capabilities and uses than JSFiddle has, but it has a higher skill curve since it is not very intuitive to begin with. Along with IntelliJ there is ESLint which checks our formatting. I really like this because it shows how many errors and where your errors are in regard to incorrect formatting. As said before, I prefer universal coding standards because it helps me compare code with other examples to find errors or develop my own version. For example, if I have two functions where one works and one doesn’t, if they are both formatted correctly I can pick out bugs quicker and correct my code. One other aspect of ESLint is that for the errors they show them with red ‘x’ marks, so when finalizing your code you are able to work though and fix your mistakes till it shows you a green check mark. It’s a very trivial graphic, but it helps me easily see how much errors I have and when everything is good to go. 
 
 
-<img class="ui left floated rounded image" style="height: 100px" src="../images/rawHTML.PNG"> 
+<img class="ui left floated rounded image" style="height: 250px" src="../images/rawHTML.PNG"> 
 
-<img class="ui right floated rounded image"style="height: 100px" src="../images/colourpop_recreation.PNG"> 
+<img class="ui right floated rounded image" style="height: 250px" src="../images/colourpop_recreation.PNG"> 
 
 <br />
 <br />

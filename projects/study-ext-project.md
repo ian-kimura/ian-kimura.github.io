@@ -26,5 +26,6 @@ Overall, after finishing this project, I learned a lot about creating a working 
 My overall consensus is that this experience working on this project helped me learn as to what working with others on bigger projects can be like. It was very stressful and I wish we had more time and less errors, but I think that we were able to get the good idea of what we wanted out there. 
 
 [Here](https://study-ext.xyz/#/) is a working link to our deployment of our page. You are able to sign up or log in using the default email: john@foo.com and password: changeme. 
+[Here](https://study-ext.github.io/) is our github website shows the development of the site. 
 
 
